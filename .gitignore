@@ -1,0 +1,5 @@
+*.txt
+cryptography.vcxproj
+cryptography.vcxproj.filters
+cryptography.vcxproj.user
+Debug/
